@@ -1,4 +1,5 @@
 # Banking Case Study
+Gundsambuu Badam - 856126
 
 You're going to create a banking application.  The banking application has the following lines of business (LoBs):
 
@@ -9,7 +10,7 @@ You're going to create a banking application.  The banking application has the f
 The bank has decided to consolidate and display on the dashboard (a non-existent UI), all the accounts belonging to a particular customer once they log into the banking application.
  
 #### Overall Deliverables
-* Design and build a REST service for deposit accounts.
+* Design and build a REST service for deposit accounts. 
 * Design and build a REST service for credit card accounts.
 * Design and build a REST service for auto loan accounts.
 * Design and build a REST service for aggregating data from the 3 previous microservices.
